@@ -6,5 +6,6 @@ setup(
     license = "MIT",
     description = "Paquete de proyecto Practica 1",
     author= "Alexander Paucar y Stephen Morales",
-    author_email = "alexgor93@outlook.com"
+    packages = find_packages(),
+    url = "https://github.com/alexgor10/MLE_Entregable1.git"
 )
